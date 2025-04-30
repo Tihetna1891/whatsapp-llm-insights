@@ -1,7 +1,5 @@
-
 import streamlit as st
 from whatsapp_llm_utils import parse_chat, build_vector_store
-from sentence_transformers import util
 from sentence_transformers import SentenceTransformer
 import chromadb
 from chromadb.config import Settings
@@ -19,7 +17,7 @@ def search_messages(query, collection, top_k=5):
 def render_result(message, metadata):
     media_type = metadata.get("media_type", "text")
     st.markdown(f"**{metadata['sender']}** • {metadata['timestamp']}")
-    
+
     if media_type == "image":
         st.image("🔗 Image (media omitted in text)", caption=message)
     elif media_type == "pdf":
@@ -46,16 +44,22 @@ if uploaded_file:
     st.success("Chat uploaded successfully!")
     chat_data = parse_chat("chat.txt")
 
-    with st.spinner("Embedding & building vector store..."):
-        collection = build_vector_store(chat_data=chat_data)
+    if not chat_data:
+        st.error("No valid messages found in the chat file. Please check the file format.")
+    else:
+        with st.spinner("Embedding & building vector store..."):
+            collection = build_vector_store(chat_data=chat_data)
 
-    st.success("Ready to search!")
+        st.success("Ready to search!")
 
-    query = st.text_input("Search your chat:")
-    top_k = st.slider("Number of results to show", 1, 20, 5)
+        query = st.text_input("Search your chat:")
+        top_k = st.slider("Number of results to show", 1, 20, 5)
 
-    if query:
-        with st.spinner("Searching..."):
-            results = search_messages(query, collection, top_k)
-            for msg, metadata in zip(results['documents'][0], results['metadatas'][0]):
-                render_result(msg, metadata)
+        if query:
+            with st.spinner("Searching..."):
+                results = search_messages(query, collection, top_k)
+                if results['documents']:
+                    for msg, metadata in zip(results['documents'][0], results['metadatas'][0]):
+                        render_result(msg, metadata)
+                else:
+                    st.write("No results found for your query.")
