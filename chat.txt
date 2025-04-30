@@ -1,0 +1,255 @@
+11/03/2025, 10:26 am - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.
+10/03/2025, 8:58 pm - ~ T created group "FTL - ML Hackton Group 13"
+11/03/2025, 10:26 am - You joined using this group's invite link
+11/03/2025, 1:13 pm - +251 92 131 2590 joined using this group's invite link
+11/03/2025, 3:57 pm - +251 91 053 3748: please try to see the other groups on the whiteboard.
+-  Write the SDG plans you are going to address 
+- then brief description of your project
+- the source of dataset
+- and finally the roadmap you follow to develop the solution.
+11/03/2025, 4:03 pm - +251 96 323 2349: ts; Jot down ur ideas...
+11/03/2025, 4:03 pm - +251 91 053 3748: I have none
+11/03/2025, 4:03 pm - +251 91 053 3748: There needs to be discussions among group members
+11/03/2025, 4:03 pm - +251 91 053 3748: And write your ideas
+11/03/2025, 4:04 pm - +251 96 323 2349: We will discuss...
+11/03/2025, 4:16 pm - Tina: What is SDG?..sorry I was not attend yesterday's class  could anyone  please explain what is going on
+11/03/2025, 7:50 pm - +251 96 323 2349: Sustainable Development Goals
+11/03/2025, 7:51 pm - +251 91 053 3748: This message was deleted
+11/03/2025, 7:51 pm - +251 91 053 3748: Please everyone have a meeting
+11/03/2025, 7:51 pm - +251 91 053 3748: And try to urge other group members to join on the main group
+11/03/2025, 7:52 pm - +251 96 323 2349: <Media omitted>
+11/03/2025, 7:52 pm - +251 96 323 2349: Pls; write down ur ideas
+11/03/2025, 7:53 pm - +251 96 323 2349: that Related wz SDG Objectives
+11/03/2025, 8:11 pm - +251 96 323 2349: 1. AI_Driven Disease Mutation Detector 
+2. ... 
+3. ....
+4. ...
+5. .....
+11/03/2025, 8:11 pm - +251 96 323 2349: Add urs
+11/03/2025, 8:19 pm - +251 91 053 3748: 2. AI-Based Disaster Response Optimization
+11/03/2025, 8:20 pm - +251 96 323 2349: 3. AI_ Powered Waste Management and Recycling Optimization
+11/03/2025, 8:44 pm - Tina: Here is my project idea
+1, Responsible consumption - Food waste reduction
+Description:
+
+Problem: Restaurants and households waste massive amounts of food.
+
+ML Solution: Predict food demand in restaurants using historical sales data to reduce over-preparation.
+Tech Stack: Python, Scikit-Learn, LSTM, Dash.
+
+Dataset: Food Demand Forecasting
+11/03/2025, 9:05 pm - +251 91 053 3748: <Media omitted>
+11/03/2025, 9:17 pm - +251 91 053 3748: <Media omitted>
+11/03/2025, 9:32 pm - +251 96 112 3377 joined using this group's invite link
+11/03/2025, 9:32 pm - Tina: Do we have a meeting now
+11/03/2025, 9:33 pm - +251 96 323 2349: Shall we create a poll to choose the topic?
+11/03/2025, 9:33 pm - Tina: Yes
+11/03/2025, 9:34 pm - +251 91 053 3748: Yes
+11/03/2025, 9:35 pm - +251 91 053 3748: 1st two seem better in my opinion. Although every input was great. 😊
+11/03/2025, 9:38 pm - +251 93 065 9538 joined using this group's invite link
+11/03/2025, 9:41 pm - +251 96 323 2349: POLL:
+Choose ur best for our project title [SDG + AI ]
+OPTION: AI_ based Disaster Response Optimization (2 votes)
+OPTION: AI_Powered  Waste Management and Recycling Optimization (4 votes)
+OPTION: AI_ driven Disease Mutation Detector (0 votes)
+OPTION: Responsible Consumption_ Food Waste reduction (0 votes)
+
+11/03/2025, 9:41 pm - +251 91 053 3748: I agree
+12/03/2025, 7:30 am - +86 187 4080 6427 joined using this group's invite link
+12/03/2025, 9:23 am - +251 96 323 2349: Group13
+SDG: Goal 12 – Responsible Consumption and Production
+Idea: AI-Powered Waste Management Optimization(Use AI to optimize waste collection, sorting, and recycling processes, reducing landfill waste and improving sustainability)
+Solution: Develop an AI system to predict waste generation, optimize collection routes, and automate recyclable material classification.
+Key Features:
+I) AI-driven waste prediction and tracking
+II) Route optimization for efficient collection
+III) Smart waste sorting with image recognition
+
+Dataset:
+TrashNet (Image classification of waste)
+Waste Management Open Data (Municipal waste statistics)
+
+Roadmap:
+a) Build waste classification model, optimize routes using AI
+b) Integrate  real-time waste data and evaluate performance
+12/03/2025, 3:10 pm - +251 98 340 8740: Nice
+12/03/2025, 3:22 pm - +251 98 340 8740: So, what are we supposed to do next?
+12/03/2025, 3:23 pm - +251 96 323 2349: Prepare urself
+12/03/2025, 4:50 pm - Tina: For what?
+13/03/2025, 4:39 pm - +251 98 340 8740: What is really expected from us guys...
+13/03/2025, 4:39 pm - +251 98 340 8740: I think tomorrow is the deadline.
+13/03/2025, 4:39 pm - +251 91 053 3748: We are supposed to do the project with python
+13/03/2025, 4:53 pm - +251 96 323 2349: Hi Team I’m currently busy with other tasks—please take a time to do  the project. I trust you’ve got this, and I appreciate your support!
+13/03/2025, 5:44 pm - +251 98 340 8740: Any progress by far?
+13/03/2025, 5:45 pm - +251 96 323 2349: No
+13/03/2025, 8:54 pm - +251 98 340 8740: So what shall we do?
+13/03/2025, 8:54 pm - +251 98 340 8740: Let's discuss and start doing the task
+13/03/2025, 9:02 pm - +251 96 323 2349: <Media omitted>
+dataset-resized.zip
+13/03/2025, 9:11 pm - +251 98 340 8740: Could you Share us the ppt file (if there is any) you use for yesterday's presentation
+13/03/2025, 9:28 pm - +251 96 323 2349: sry, i didn't prepare the ppt
+13/03/2025, 10:08 pm - +251 98 340 8740: Ok
+13/03/2025, 10:09 pm - +251 98 340 8740: Anyone here with previous ML experience?
+13/03/2025, 10:12 pm - +251 91 053 3748: This task is to be done
+13/03/2025, 10:12 pm - +251 91 053 3748: Only using python
+13/03/2025, 10:12 pm - +251 91 053 3748: No ML yet
+13/03/2025, 10:13 pm - +251 91 053 3748: After we learn mL then we can apply that
+13/03/2025, 10:54 pm - +251 98 340 8740: However, the project we selected is a machine learning project, not just a basic or general Python project.
+13/03/2025, 10:55 pm - +251 91 053 3748: The project everyone selected is that way
+13/03/2025, 10:55 pm - +251 91 053 3748: Please ask Eda for further clarifications incase I am mistaken
+13/03/2025, 10:57 pm - +251 98 340 8740: Maybe I am mistaken, 
+Could you explain to me what exactly (as a team and individual)is expected from us/me
+13/03/2025, 10:57 pm - +251 91 053 3748: I'm not so sure like I said I maybe mistaken
+13/03/2025, 10:58 pm - +251 91 053 3748: I tot it was a python project
+13/03/2025, 10:59 pm - +251 98 340 8740: I heard that failure to participate in the hackathon will lead to termination from the boot camp
+13/03/2025, 11:00 pm - +251 98 340 8740: What about other group members?
+No one here
+14/03/2025, 1:05 am - Tina: Agree...and I don't think machine learning project can be done with in 1 day or 2...we have to ask Eda what exactly needed to submit
+14/03/2025, 1:06 am - +251 91 053 3748: It is python.
+14/03/2025, 4:31 am - +251 91 053 3748: Guys I have done a simple version of this but it has issues because it is simple python and not ML obviously and also it is kind of simple and just does a simple task. But maybe u guys have done better
+14/03/2025, 4:32 am - +251 91 053 3748: I tried to do it because I didn't see any u guys using Google collab or other methods to code
+14/03/2025, 4:32 am - +251 91 053 3748: Idk if what I tried was what was intended but I will send it tmw
+14/03/2025, 8:51 am - +251 96 323 2349: ts, could you prepare the documentation to be submitted?
+14/03/2025, 10:12 am - Tina: I have created github repository ..send me your account name so we can collaborate and push our codes there
+14/03/2025, 10:14 am - +251 96 323 2349: https://github.com/Tolcha-Adere
+14/03/2025, 10:32 am - +251 98 340 8740: https://github.com/Tewodros-agegnehu
+14/03/2025, 11:56 am - +251 91 053 3748: https://github.com/Vitsi/FTL-ML.git
+
+
+U can clone it or download it. I am recording a demo for u guys. Like I said I don't know if this is what was intended if u guys come up with something better please share
+14/03/2025, 11:57 am - +251 91 053 3748: Using this as an example
+14/03/2025, 11:57 am - +251 91 053 3748: We need to dicuss our project
+14/03/2025, 11:58 am - +251 91 053 3748: Frontier_Tech_Leaders_ Programme_Template - hackathon.pptx (file attached)
+Frontier_Tech_Leaders_ Programme_Template - hackathon.pptx
+14/03/2025, 11:58 am - +251 91 053 3748: please use this template
+14/03/2025, 11:59 am - +251 91 053 3748: Project cost roadmap development etc need to be discussed and made into a ppt like eda said using the template above. I suggest we discuss.
+14/03/2025, 12:01 pm - +251 96 323 2349: you did great!!!
+14/03/2025, 12:05 pm - +251 91 053 3748: It is not machine learning so accuracy is very low please if any of u have a better implementation or idea present it for us thank u
+14/03/2025, 12:05 pm - +251 91 053 3748: <Media omitted>
+14/03/2025, 1:21 pm - Tina: Frontier_Tech_Leaders_ Programme_Template - hackathon.pptx (file attached)
+14/03/2025, 1:23 pm - +251 91 053 3748: <Media omitted>
+14/03/2025, 1:23 pm - +251 91 053 3748: The draft ys empty
+14/03/2025, 1:23 pm - +251 91 053 3748: Is
+14/03/2025, 1:26 pm - Tina: Check this one
+14/03/2025, 1:30 pm - +251 91 053 3748: Maybe it's my phone I see empty template please other teammates cheak with ur devices
+14/03/2025, 1:31 pm - Tina: You deleted this message
+14/03/2025, 1:32 pm - +251 91 053 3748: <Media omitted>
+14/03/2025, 1:34 pm - Tina: DOC-20250314-WA0003. (file attached)
+14/03/2025, 1:35 pm - Tina: Sorry guys it was my mistake check this one
+14/03/2025, 1:48 pm - +251 91 053 3748: PTT-20250314-WA0004.opus (file attached)
+14/03/2025, 1:53 pm - Tina: The reason I included three categories under the technology stack section along with available data sources is just to show the options out there so that we can decide after discussion
+14/03/2025, 1:53 pm - +251 96 323 2349: PTT-20250314-WA0005.opus (file attached)
+14/03/2025, 1:54 pm - Tina: What documentation are we supposed to submit a documentation other than the presentation ende?
+14/03/2025, 1:55 pm - +251 96 323 2349: Use their ppt template to prepare the slides
+14/03/2025, 1:56 pm - Tina: I have already sent the ppt check and give us  your opinion
+14/03/2025, 2:00 pm - +251 96 323 2349: On GitHub?
+14/03/2025, 2:02 pm - +251 96 323 2349: import tensorflow as tf
+from tensorflow.keras import layers, models
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
+import matplotlib.pyplot as plt
+
+# Paths: Point to the main train and validation directories
+train_dir = r"C:\Users\Tolykoo\dataset-resized\train"
+val_dir = r"C:\Users\Tolykoo\dataset-resized\validation"
+
+# Data augmentation for better generalization (applies to training set only)
+train_datagen = ImageDataGenerator(rescale=1./255, rotation_range=40, width_shift_range=0.2,
+                                   height_shift_range=0.2, shear_range=0.2, zoom_range=0.2,
+                                   horizontal_flip=True, fill_mode='nearest')
+
+val_datagen = ImageDataGenerator(rescale=1./255)
+
+# Load images from directories (ensure structure is correct)
+train_generator = train_datagen.flow_from_directory(train_dir, target_size=(150, 150),
+                                                    batch_size=32, class_mode='categorical')
+
+val_generator = val_datagen.flow_from_directory(val_dir, target_size=(150, 150),
+                                                batch_size=32, class_mode='categorical')
+
+# Check that the class indices match your categories
+print(train_generator.class_indices)
+
+# Build a Convolutional Neural Network (CNN) model
+model = models.Sequential([
+    layers.Conv2D(32, (3, 3), activation='relu', input_shape=(150, 150, 3)),
+    layers.MaxPooling2D((2, 2)),
+    layers.Conv2D(64, (3, 3), activation='relu'),
+    layers.MaxPooling2D((2, 2)),
+    layers.Conv2D(128, (3, 3), activation='relu'),
+    layers.MaxPooling2D((2, 2)),
+    layers.Flatten(),
+    layers.Dense(512, activation='relu'),
+    layers.Dense(6, activation='softmax')  # 6 categories in TrashNet
+])
+
+# Compile the model
+model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
+
+# Train the model
+history = model.fit(train_generator, epochs=25, validation_data=val_generator)
+
+# Save the trained model
+model.save('waste_classification_model.h5')
+
+# Plot training history
+plt.plot(history.history['accuracy'], label='Training Accuracy')
+plt.plot(history.history['val_accuracy'], label='Validation Accuracy')
+plt.xlabel('Epochs')
+plt.ylabel('Accuracy')
+plt.legend()
+plt.show()
+Footer
+14/03/2025, 2:04 pm - Tina: No here
+14/03/2025, 2:04 pm - Tina: This is the ppt
+14/03/2025, 2:07 pm - +251 96 323 2349: It's good; could you add  one more slides on toadmap || methodology part?
+14/03/2025, 2:08 pm - +251 91 053 3748: This is ML. The project is to be done with Python only. As we have not learned it yet. Please to make sure ask eda
+14/03/2025, 2:08 pm - +251 91 053 3748: There is a documentation on the Readme.md if she wants
+14/03/2025, 2:11 pm - Tina: Sorry but what do you mean by 'python only'..we have already pick  ML project title so we supposed to do ML and we can use python to implement our solutions
+14/03/2025, 2:13 pm - +251 91 053 3748: PTT-20250314-WA0006.opus (file attached)
+14/03/2025, 2:13 pm - +251 96 323 2349: We have to use Python code to implement
+14/03/2025, 2:13 pm - +251 91 053 3748: This is my understanding
+14/03/2025, 2:14 pm - +251 96 323 2349: To retrieve data; preproces the data; model dev't; integration and deployment
+14/03/2025, 2:22 pm - Tina: I think there is a misunderstanding let's have a meeting and we'll discuss there before the class begins please pick time <This message was edited>
+14/03/2025, 2:45 pm - +251 96 323 2349: 12 sehat works for me
+14/03/2025, 2:58 pm - +251 98 340 8740: It works for me too
+14/03/2025, 3:11 pm - Tina: Ok
+14/03/2025, 3:57 pm - +251 91 053 3748: <Media omitted>
+14/03/2025, 5:57 pm - +251 96 323 2349: Click https://us05web.zoom.us/j/87111608601?pwd=ofmwaMmCWGEmJq0qQcSQg4EmBtHUVb.1 to start or join a scheduled Zoom meeting.
+14/03/2025, 6:00 pm - +251 91 053 3748: I'm running late. U guys start ill be join in...in about 10 to 15 mins
+14/03/2025, 6:01 pm - Tina: Yeah me too let's make it 12:30 what do you say
+14/03/2025, 6:02 pm - +251 96 323 2349: Okay; it also works for me
+14/03/2025, 6:28 pm - +251 96 323 2349: Click https://us05web.zoom.us/j/81643066998?pwd=jNawT8vqzKHVTbx2iscbbf38DqUptZ.1 to start or join a scheduled Zoom meeting.
+14/03/2025, 6:30 pm - +251 96 323 2349: Pls join now
+14/03/2025, 6:49 pm - +251 91 053 3748: Sorry network trying to rejoin
+14/03/2025, 7:07 pm - +251 91 053 3748: @251938987040
+14/03/2025, 7:07 pm - +251 96 323 2349: Click https://us05web.zoom.us/j/81923664916?pwd=lrdRJVJp6kkyuBbpioT1egytYc4xgN.1 to start or join a scheduled Zoom meeting.
+14/03/2025, 7:07 pm - +251 91 053 3748: https://github.com/Vitsi/
+14/03/2025, 7:07 pm - +251 91 053 3748: For the git hub repo.
+14/03/2025, 7:24 pm - Tina: I have added you check it @251910533748
+14/03/2025, 7:34 pm - +251 98 340 8740: Hardware Costs:
+
+Cameras (for waste classification): $200.
+Smart waste bins with sensors: $150.
+14/03/2025, 7:46 pm - +251 91 053 3748: @251938987040
+14/03/2025, 7:47 pm - +251 91 053 3748: I have created a new branch and pushed the folder there should I merge with main or no?
+14/03/2025, 8:06 pm - Tina: @251963232349 here are the github link and ppt please email her
+14/03/2025, 8:07 pm - Tina: https://github.com/Tihetna1891/AI-Waste-Management
+14/03/2025, 8:07 pm - Tina: Merge it
+14/03/2025, 8:08 pm - Tina: DOC-20250314-WA0009. (file attached)
+14/03/2025, 9:17 pm - Tina: Hello  I don't think a streamlit app will be available for presentation sincei couldn't install tensorflow due to Internet issue  ...what shall we do
+14/03/2025, 9:20 pm - +251 91 053 3748: U can show the code. If you'd like and then for ui we can tell them as a back up we have coded mine and I can show them the ui but network isn't allowing me to use my PC I joined the meeting thru my phone so lemme try w pc for a bit
+14/03/2025, 9:20 pm - +251 91 053 3748: And I'll let uk
+14/03/2025, 9:20 pm - +251 91 053 3748: Until then try to install if it doesn't work we can try this method
+14/03/2025, 9:20 pm - +251 91 053 3748: Tell them the issue straight up network issue etc
+14/03/2025, 9:21 pm - Tina: Nice ..sure will do
+14/03/2025, 9:24 pm - +251 91 053 3748: It has worked on pc so after ur presentation and explanation of the code I can present.
+14/03/2025, 9:43 pm - Tina: Ok greate <This message was edited>
+14/03/2025, 9:52 pm - +251 91 053 3748: Tell them mine is just demo of how it should work
+14/03/2025, 9:58 pm - Tina: Will do
+14/03/2025, 11:44 pm - +251 91 053 3748: @251963232349
+14/03/2025, 11:44 pm - +251 91 053 3748: Did u submit the project
+14/03/2025, 11:45 pm - +251 96 323 2349: Thank you ladies: it was amazing 👏
+14/03/2025, 11:46 pm - +251 96 323 2349: Yes
+27/03/2025, 8:58 pm - +251 98 340 8740: This message was deleted
+18/04/2025, 7:18 pm - +251 91 053 3748: This message was deleted
+18/04/2025, 7:18 pm - +251 91 053 3748: This message was deleted
